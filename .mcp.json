@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "krish-instagram": {
+      "command": "C:\\Users\\krish\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+      "args": [
+        "C:\\krish\\Claude\\Meta Graph API\\instagram_project\\mcp_server.py"
+      ]
+    }
+  }
+}
